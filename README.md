@@ -1,4 +1,4 @@
-# Heroes and Powers Management API
+# Heroes and Powers Code API
 
 This project is a Flask-based API for managing heroes and their associated powers. The API allows users to perform CRUD (Create, Read, Update, Delete) operations on heroes, powers, and their associations.
 
